@@ -13,5 +13,5 @@ Each .rb file corresponds to a demonstration of [Al Bregman's Auditory Scene Ana
 
 * [01 - Stream segregation in a cycle of six tones](audios/1a.mp3)
 * [02 - Pattern recognition, within and across perceptual streams](audios/2a.mp3)
-* 04 - Cumulative effects of repetition on streaming
+* 04 - Cumulative effects of repetition on streaming.
 * [13 - The effects of stream segregation on the judgment of timing](audios/13a.mp3)
